@@ -1,4 +1,4 @@
-# 🚗 AI-Integrated Dashcam System
+# 🚗 Drive Guard
 
 An AI-powered dashcam system designed to analyse real-time video streams and detect potential hazards using computer vision and machine learning.
 
